@@ -155,6 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Prosper Ihediwa Onyedikachi
+Oko Michael
 
 Second part of Airbnb: Joann Vuong
 ## License
